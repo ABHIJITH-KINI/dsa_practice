@@ -1,5 +1,5 @@
 /*
-Remove adjacent duplicate using
+Remove adjacent duplicate using stack
  */
 
 import java.util.Stack;
