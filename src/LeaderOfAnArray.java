@@ -1,3 +1,8 @@
+/*
+An element is a leader if it is greater than all the elements to its right side.
+And the rightmost element is always a leader.
+ */
+
 public class LeaderOfAnArray {
 
     public static void main(String[] args) {
